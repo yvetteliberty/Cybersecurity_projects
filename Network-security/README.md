@@ -13,4 +13,4 @@ The goal is to identify normal and suspicious  traffic patterns and documents my
 - Security Documentation
   ## Summary on the Analysis
   This Analysis involved filtering  DNS,TCP,TLS ,HTTP/HTTPS Traffic,identifying abnormal connection  attempts,and documenting findings.
-  ## Screenshot of the analysis 
+  ## Screenshot of the analysis
