@@ -30,3 +30,19 @@ Accessed the web server using a browser and IP address
 The default web page loaded successfully
 No HTTP errors encountered
 # Screen shot 
+Screenshots of filters and findings  are included in the folder.
+
+# 📌 Key Observations
+ - ICMP confirms reachability before application access.
+ - ARP resolution may cause initial packet delay or loss.
+ - HTTP operates on top of TCP/IP for web communication.
+ - Proper IP configuration is essential for successful connectivity
+
+🧠 Security & Networking Relevance
+- Demonstrates understanding of network layers
+- Shows ability to troubleshoot connectivity issues
+- Reinforces foundational skills required for cybersecurity and network support roles
+ - Useful for entry-level SOC, network technician, or cybersecurity internships
+
+✅ Conclusion
+The lab successfully demonstrates end-to-end communication between a client and a web server. Both network-layer and application-layer connectivity were verified, highlighting essential networking principles used in real-world environments.
